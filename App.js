@@ -24,7 +24,7 @@ const App = () => {
         }}
         defaultValue="You can type in me"
       />
-    </ScrollView>
+    </ScrollView> 
   );
 }
 
