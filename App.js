@@ -25,7 +25,7 @@ const App = () => {
         defaultValue="You can type in me"
       />
     </ScrollView> 
-  );
+  );  
 }
 
 export default App;
